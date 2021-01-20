@@ -1,0 +1,7 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(È Ğˆ8ÿæû·ğ.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8«æœ·ğ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËÓ¿Î
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(â§¢…üÿÿÿÿ8«æœ·ğ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ëŞÚ–şÿÿÿÿ8ıƒ½·ğ.
+^	java:S899"BDo something with the "boolean" value returned by "createNewFile".(á‡³8Îı·ğ.
